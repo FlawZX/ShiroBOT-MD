@@ -1,32 +1,32 @@
 //=============『 Utama 』================== //
-global.owner = ['6282148864989'] 
+global.owner = ['6289510598381'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'RenFunix ツ'
-global.numberowner = '6282148864989'
-global.instagram = 'https://instagram.com/renfunix'
-global.github = 'https://github.com/RenFunix'
-global.dana = '082148864989'
-global.pulsa = '082148864989'
-global.gopay = '082148864989'
+global.nameowner = 'YogzFX'
+global.numberowner = '6289510598381'
+global.instagram = 'https://instagram.com/karfuanyogich'
+global.github = 'https://github.com/ZennSky'
+global.dana = '089510598381'
+global.pulsa = '089510598381'
+global.gopay = '089510598381'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Elaina ESM'
+global.namebot = '𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
 global.gc = 'https://chat.whatsapp.com/JMv6TBnYGCe7NngMhLdGmb'
 global.web = 'https://chat.whatsapp.com/JMv6TBnYGCe7NngMhLdGmb' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '_*Sewa Payment*_\n_*Gopay = 082148864989*_\n_*Dana = 082148864989*_\n_*Contact me :*_\nwa.me/6282148864989'
+global.price1 = '_*Sewa Payment*_\n_*Gopay = 089510598381*_\n_*Dana = 089510598381*_\n_*Contact me :*_\nwa.me/6289510598381'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/e4a2f4339da8a32ad20a1.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/1e33fe14e1bd9b1959f46.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = '3599828239' //ganti jadi apikey lu kalau expired
-global.wm = 'ᎬᏞᎪᏆNᎪ ᎬᏚᎷ'
+global.wm = '© 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
 global.watermark = wm
-global.wm2 = '                     「 ᎬᏞᎪᏆNᎪ ᎬᏚᎷ あ⁩ 」'
-global.wm3 = '⫹⫺ RenFunix ツ'
+global.wm2 = '                     「 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛 あ⁩ 」'
+global.wm3 = '⫹⫺ YogzFX'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/1e33fe14e1bd9b1959f46.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Right ✅\n'
 global.salah = 'Wrong ❌\n'
 global.stiker_wait = 'Stickers in progress'
-global.packname = '2022'
-global.author = '© RenFunix ツ'
+global.packname = 'Created By 𝒁𝒆𝒏𝒏𝑺𝒌𝒚-𝑩𝒐𝒕𝒛'
+global.author = 'Made By @YogzFX'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
